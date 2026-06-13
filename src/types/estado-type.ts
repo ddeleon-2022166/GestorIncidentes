@@ -1,0 +1,1 @@
+export type EstadoIncidente = "Abierto" | "En Progreso" | "Resuelto";

@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_4",
+  "version": "1.0.0",
+  "description": "Sistema C-27 de gestión de incidentes en TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.19.42",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
